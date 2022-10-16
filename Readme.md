@@ -2,7 +2,7 @@
 
 Project- Paytm Clone
 
-This is the clone of the [PAYTM](https://paytm.com/) as a task in ineuron's FSJSBootCamp Course.
+This is the clone of the [PAYTM](https://paytm.com/) which was given as a task in ineuron's FSJSBootCamp Course.
 
 Technologies/ Tools Used:
 
