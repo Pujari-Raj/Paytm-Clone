@@ -1,4 +1,4 @@
-# Live Class Project18
+# Live Class Project-18
 
 Project- Paytm Clone
 
@@ -19,7 +19,7 @@ Technologies/ Tools Used:
 Click on the below given link to get the preview of the page
 
 <a href="https://pujari-paytm-clone.netlify.app/">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 Learnings from this projects:-
